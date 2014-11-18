@@ -12,7 +12,7 @@ Original sources:
 
 [2] C. T. Chantler. Detailed tabulation of atomic form factors, photoelectric absorption and scattering cross section, and mass attenuation coefficients in the vicinity of absorption edges in the soft x-ray (z=30–36, z=60–89, e=0.1 kev–10 kev), addressing convergence issues of earlier work. Journal of Physical and Chemical Reference Data, 29(4):597–1056, 2000. http://dx.doi.org/10.1063/1.1321055
 
-The empirical database was taken from http://www.esrf.fr/computing/scientific/dabax
+The empirical database was taken from http://ftp.esrf.eu/pub/scisoft/xop2.3/DabaxFiles/
 
 Original source:
 
