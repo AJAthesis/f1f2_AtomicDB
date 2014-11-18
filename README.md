@@ -2,7 +2,7 @@ f1f2_AtomicDB
 =============
 
 This repository contains tabulations of the theoretical and empirical atomic scattering form factors for the elements. 
-I include a simple mathematica worksheet that can be used to load and extract the data and plot it as needed.
+The mathematica notebook can be used to load and extract the data and plot it as needed.
 
 The theoretical database was compiled from http://www.nist.gov/pml/data/ffast/index.cfm
 
